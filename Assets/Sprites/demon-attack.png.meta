@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a357fc4bf6d18ee44883a5f07e49102a
+guid: f6cccddceec42d04496a76aa66307de5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,253 +105,232 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gothic-hero-run_0
+      name: demon-attack_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 1
-        width: 47
-        height: 39
+        x: 83
+        y: 21
+        width: 143
+        height: 125
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f46ec3a12ee5c7469f2ef92a1fa3d53
-      internalID: -1336782543
+      spriteID: adbd7241d291b1a4ba3505971b9b030b
+      internalID: -784732535
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_1
+      name: demon-attack_1
       rect:
         serializedVersion: 2
-        x: 75
-        y: 0
-        width: 43
-        height: 44
+        x: 324
+        y: 30
+        width: 106
+        height: 105
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d79ce7b2a37e894285ad1808b27eeb1
-      internalID: 217853683
+      spriteID: a86206ec479fac24fb37cb8127d6a2ab
+      internalID: 758586815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_2
+      name: demon-attack_2
       rect:
         serializedVersion: 2
-        x: 137
-        y: 0
-        width: 45
-        height: 42
+        x: 566
+        y: 32
+        width: 97
+        height: 94
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec137c815ed5109409faa7db98dc0c1f
-      internalID: -2064982222
+      spriteID: 2c0737fb69b638e459c59deb278794d2
+      internalID: -804543161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_3
+      name: demon-attack_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 0
-        width: 41
-        height: 44
+        x: 794
+        y: 24
+        width: 150
+        height: 91
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10261cc3511b62e4a8f5e6449a233447
-      internalID: -1577212637
+      spriteID: ebe2b85b841d09e4a95d90e390d2fb03
+      internalID: 711381269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_4
+      name: demon-attack_4
       rect:
         serializedVersion: 2
-        x: 276
-        y: 1
-        width: 40
-        height: 42
+        x: 1042
+        y: 27
+        width: 144
+        height: 80
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbffb79198eb465458fd6e67ea764faa
-      internalID: -650030081
+      spriteID: cb692df90ef297a49859ec6b89491eb6
+      internalID: 794367849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_5
+      name: demon-attack_5
       rect:
         serializedVersion: 2
-        x: 338
-        y: 0
-        width: 48
-        height: 43
+        x: 1292
+        y: 26
+        width: 121
+        height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a70915d4b419e754998678cfeedf3787
-      internalID: -290152990
+      spriteID: 9a61afeb1e4d74042a611088a7196e14
+      internalID: -2004078988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_6
+      name: demon-attack_6
       rect:
         serializedVersion: 2
-        x: 404
-        y: 1
-        width: 44
-        height: 39
+        x: 1519
+        y: 15
+        width: 126
+        height: 165
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7655ca5f5c708da46a77754d3c65bfec
-      internalID: -272836605
+      spriteID: 9a13933e23ffbda498aac0d4111455f2
+      internalID: -1168510885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_7
+      name: demon-attack_7
       rect:
         serializedVersion: 2
-        x: 470
-        y: 0
-        width: 43
-        height: 42
+        x: 1703
+        y: 10
+        width: 182
+        height: 169
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9db4917a22f3eba42911875decd04550
-      internalID: 267695131
+      spriteID: 188eb579d52bb814cb3e47bb460bd11c
+      internalID: -1624118312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_8
+      name: demon-attack_8
       rect:
         serializedVersion: 2
-        x: 534
-        y: 0
-        width: 44
-        height: 40
+        x: 1934
+        y: 8
+        width: 190
+        height: 172
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 650cb999223049446ba88013f7a8c98d
-      internalID: 1633418701
+      spriteID: 0d67a9fb709339b4cacabbe62f8748d3
+      internalID: -106078039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_9
+      name: demon-attack_9
       rect:
         serializedVersion: 2
-        x: 607
-        y: 0
-        width: 37
-        height: 41
+        x: 2171
+        y: 5
+        width: 194
+        height: 174
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9acdc234b311084c9d7ac151be779b9
-      internalID: -1241158208
+      spriteID: 897cae63065a160439c4051e7775a59b
+      internalID: -1935114856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_10
+      name: demon-attack_13
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1
-        width: 38
-        height: 42
+        x: 2405
+        y: 6
+        width: 200
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1c49d962c0c90cf4bb4c548f1218afa4
-      internalID: -707172129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_11
-      rect:
-        serializedVersion: 2
-        x: 732
-        y: 2
-        width: 50
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cc8edbcc3ba46b49aa8746a3fe97f52
-      internalID: -349083352
+      spriteID: a5d74845eecbea543a7a5092c516a27e
+      internalID: -1734220545
       vertices: []
       indices: 
       edges: []
@@ -367,18 +346,26 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gothic-hero-run_0: -1336782543
-      gothic-hero-run_1: 217853683
-      gothic-hero-run_10: -707172129
-      gothic-hero-run_11: -349083352
-      gothic-hero-run_2: -2064982222
-      gothic-hero-run_3: -1577212637
-      gothic-hero-run_4: -650030081
-      gothic-hero-run_5: -290152990
-      gothic-hero-run_6: -272836605
-      gothic-hero-run_7: 267695131
-      gothic-hero-run_8: 1633418701
-      gothic-hero-run_9: -1241158208
+      demon-attack_0: -784732535
+      demon-attack_1: 758586815
+      demon-attack_10: 384749159
+      demon-attack_11: -479048701
+      demon-attack_12: -145052352
+      demon-attack_13: -1734220545
+      demon-attack_14: 1633217098
+      demon-attack_15: -806685781
+      demon-attack_16: 1658444591
+      demon-attack_17: -2115052624
+      demon-attack_18: 1216498383
+      demon-attack_19: 1600368832
+      demon-attack_2: -804543161
+      demon-attack_3: 711381269
+      demon-attack_4: 794367849
+      demon-attack_5: -2004078988
+      demon-attack_6: -1168510885
+      demon-attack_7: -1624118312
+      demon-attack_8: -106078039
+      demon-attack_9: -1935114856
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

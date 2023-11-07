@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a357fc4bf6d18ee44883a5f07e49102a
+guid: 7596754ddd7273846a6780ffc14a3e8a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gothic-hero-run_0
+      name: demon-idle_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 1
-        width: 47
-        height: 39
+        x: 18
+        y: 17
+        width: 134
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,20 +119,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f46ec3a12ee5c7469f2ef92a1fa3d53
-      internalID: -1336782543
+      spriteID: 98bd9fa0449cb9544b8dfbc12cc5f944
+      internalID: 610356983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_1
+      name: demon-idle_1
       rect:
         serializedVersion: 2
-        x: 75
-        y: 0
-        width: 43
-        height: 44
+        x: 164
+        y: 16
+        width: 156
+        height: 118
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +140,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d79ce7b2a37e894285ad1808b27eeb1
-      internalID: 217853683
+      spriteID: 3b8cc46172d012b4aaf7c8e16d92ff6d
+      internalID: -495986876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_2
+      name: demon-idle_2
       rect:
         serializedVersion: 2
-        x: 137
-        y: 0
-        width: 45
-        height: 42
+        x: 332
+        y: 18
+        width: 140
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec137c815ed5109409faa7db98dc0c1f
-      internalID: -2064982222
+      spriteID: 2fd63d17697b6a24089ace9b96fdf51d
+      internalID: -1512562475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_3
+      name: demon-idle_3
       rect:
         serializedVersion: 2
-        x: 207
-        y: 0
-        width: 41
-        height: 44
+        x: 494
+        y: 17
+        width: 104
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10261cc3511b62e4a8f5e6449a233447
-      internalID: -1577212637
+      spriteID: 1894978d284d2fc4b8de6f9541ff04d9
+      internalID: -923664964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_4
+      name: demon-idle_4
       rect:
         serializedVersion: 2
-        x: 276
-        y: 1
-        width: 40
-        height: 42
+        x: 649
+        y: 18
+        width: 143
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbffb79198eb465458fd6e67ea764faa
-      internalID: -650030081
+      spriteID: e1875ea649ec2e049bc0542278549172
+      internalID: 1055491632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-run_5
+      name: demon-idle_5
       rect:
         serializedVersion: 2
-        x: 338
-        y: 0
-        width: 48
-        height: 43
+        x: 804
+        y: 18
+        width: 156
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,134 +224,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a70915d4b419e754998678cfeedf3787
-      internalID: -290152990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_6
-      rect:
-        serializedVersion: 2
-        x: 404
-        y: 1
-        width: 44
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7655ca5f5c708da46a77754d3c65bfec
-      internalID: -272836605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_7
-      rect:
-        serializedVersion: 2
-        x: 470
-        y: 0
-        width: 43
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9db4917a22f3eba42911875decd04550
-      internalID: 267695131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_8
-      rect:
-        serializedVersion: 2
-        x: 534
-        y: 0
-        width: 44
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 650cb999223049446ba88013f7a8c98d
-      internalID: 1633418701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_9
-      rect:
-        serializedVersion: 2
-        x: 607
-        y: 0
-        width: 37
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d9acdc234b311084c9d7ac151be779b9
-      internalID: -1241158208
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_10
-      rect:
-        serializedVersion: 2
-        x: 674
-        y: 1
-        width: 38
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c49d962c0c90cf4bb4c548f1218afa4
-      internalID: -707172129
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-run_11
-      rect:
-        serializedVersion: 2
-        x: 732
-        y: 2
-        width: 50
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2cc8edbcc3ba46b49aa8746a3fe97f52
-      internalID: -349083352
+      spriteID: 0a35c3aa37f1b924b84acdfd8e008cdb
+      internalID: 1021845988
       vertices: []
       indices: 
       edges: []
@@ -367,18 +241,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gothic-hero-run_0: -1336782543
-      gothic-hero-run_1: 217853683
-      gothic-hero-run_10: -707172129
-      gothic-hero-run_11: -349083352
-      gothic-hero-run_2: -2064982222
-      gothic-hero-run_3: -1577212637
-      gothic-hero-run_4: -650030081
-      gothic-hero-run_5: -290152990
-      gothic-hero-run_6: -272836605
-      gothic-hero-run_7: 267695131
-      gothic-hero-run_8: 1633418701
-      gothic-hero-run_9: -1241158208
+      demon-idle_0: 610356983
+      demon-idle_1: -495986876
+      demon-idle_2: -1512562475
+      demon-idle_3: -923664964
+      demon-idle_4: 1055491632
+      demon-idle_5: 1021845988
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

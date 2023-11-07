@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 135189f5c60250049988550c21cd8c58
+guid: eef82ff3f37aec845afa5a1ee7a6c88a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -70,7 +70,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,13 +105,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gothic-hero-attack_0
+      name: gothic-hero-jump_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 0
-        width: 28
-        height: 39
+        x: 3
+        y: 1
+        width: 47
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -119,19 +119,61 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f7b50a35cf976e4429e6d0a7b919b3b1
-      internalID: 1249447558
+      spriteID: 805376b8c76018e4cb7c329df3b8ff98
+      internalID: -1674532505
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-attack_1
+      name: gothic-hero-jump_1
       rect:
         serializedVersion: 2
-        x: 115
-        y: 0
-        width: 39
+        x: 71
+        y: 10
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0370075ae4a23c746bd5cc928fd85ba5
+      internalID: -1255913304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-hero-jump_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae248c23291af4e8359ad6790cf0aa
+      internalID: 233199776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gothic-hero-jump_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 42
         height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -140,20 +182,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c59683d969e3a8546b2482942468e7a7
-      internalID: 1771929398
+      spriteID: a9ab766dc4feebf4a92d1487a97d079a
+      internalID: -543521674
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gothic-hero-attack_2
+      name: gothic-hero-jump_4
       rect:
         serializedVersion: 2
-        x: 204
-        y: 0
-        width: 81
-        height: 39
+        x: 248
+        y: 17
+        width: 50
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,71 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e057b4c8b6859534893f10fd7a213202
-      internalID: 1484801162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-attack_3
-      rect:
-        serializedVersion: 2
-        x: 306
-        y: 0
-        width: 64
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5c8789a9f9565e94eb3956512febb58d
-      internalID: 1485227306
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-attack_4
-      rect:
-        serializedVersion: 2
-        x: 407
-        y: 0
-        width: 38
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 984d28695012b334e8e14b5da6527cb0
-      internalID: 342317388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: gothic-hero-attack_5
-      rect:
-        serializedVersion: 2
-        x: 509
-        y: 0
-        width: 32
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 209e6af8f43e50f43b3d606052653f96
-      internalID: 1177772767
+      spriteID: 7a6e0182b93da4449bbf7c2218d170b9
+      internalID: 169539460
       vertices: []
       indices: 
       edges: []
@@ -241,12 +220,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      gothic-hero-attack_0: 1249447558
-      gothic-hero-attack_1: 1771929398
-      gothic-hero-attack_2: 1484801162
-      gothic-hero-attack_3: 1485227306
-      gothic-hero-attack_4: 342317388
-      gothic-hero-attack_5: 1177772767
+      gothic-hero-jump_0: -1674532505
+      gothic-hero-jump_1: -1255913304
+      gothic-hero-jump_2: 233199776
+      gothic-hero-jump_3: -543521674
+      gothic-hero-jump_4: 169539460
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
