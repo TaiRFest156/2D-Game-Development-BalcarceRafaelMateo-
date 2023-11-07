@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DemonioScript : MonoBehaviour
 {
-    public Transform Heroe; // se asigna el objeto del jugador al que el demonio perseguira
+    public Transform heroe; // se asigna el objeto del jugador al que el demonio perseguira
     public float velocidad = 1.0f; // velocidad de seguimiento del enemigo al jugador
     public float distanciaMinima = 2.0f; // distancia minima a mantener entre el Demonio y el jugador
     public float distanciaAtaque = 2.0f; // el rango de ataque del Demonio
@@ -30,7 +30,7 @@ public class DemonioScript : MonoBehaviour
             timeNextAttack -= Time.deltaTime;
         }
         
-            Vector2 targetPosition = new Vector2(Heroe.position.x, Heroe.position.y);
+            Vector2 targetPosition = new Vector2(heroe.position.x, heroe.position.y);
             Vector2 currentPosition = new Vector2(transform.position.x, transform.position.y);
             
             float distanciaAlJugador = Vector2.Distance(currentPosition, targetPosition);
@@ -55,7 +55,7 @@ public class DemonioScript : MonoBehaviour
         
     
 
-        Vector3 direction = Heroe.transform.position - transform.position;
+        Vector3 direction = heroe.transform.position - transform.position;
         if (direction.x > 0.0f)
         {
             transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
