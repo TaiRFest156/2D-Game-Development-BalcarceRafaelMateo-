@@ -4,14 +4,18 @@ using UnityEngine;
 
 public class DemonioScript : MonoBehaviour
 {
-    public Transform heroe; // se asigna el objeto del jugador al que el demonio perseguira
-    public float velocidad = 1.0f; // velocidad de seguimiento del enemigo al jugador
-    public float distanciaMinima = 2.0f; // distancia minima a mantener entre el Demonio y el jugador
-    public float distanciaAtaque = 2.0f; // el rango de ataque del Demonio
+    // se asigna el objeto del jugador al que el demonio perseguira
+    public Transform heroe; 
+    // velocidad de seguimiento del enemigo al jugador
+    public float velocidad = 1.0f; 
+    // distancia minima a mantener entre el Demonio y el jugador
+    public float distanciaMinima = 2.0f;
+    // el rango de ataque del Demonio
+    public float distanciaAtaque = 2.0f; 
     public Animator anim;
     [SerializeField] private float health;
     public Transform fireController;
-    public float radioFire;
+    public float radioFire = 1.4f;
     public float fireDamage;
     [SerializeField] private float timeNextAttack;
     [SerializeField] private float timeBetweenAttack;

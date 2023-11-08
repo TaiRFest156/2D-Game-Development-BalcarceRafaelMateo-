@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HeroeScript : MonoBehaviour
 {
-    public float JumpForce = 4.0f; // Ajusta la fuerza del salto
+    public float JumpForce = 5.0f; // Ajusta la fuerza del salto
     private Rigidbody2D Rigidbody2D;
     public Vector2 speed = new Vector2(6, 2);
     public Animator anim;
